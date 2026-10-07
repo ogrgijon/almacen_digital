@@ -65,7 +65,7 @@ chmod +x scripts/build.sh
 1. **Limpia** artefactos de construcción anteriores
 2. **Instala** PyInstaller si no está presente
 3. **Construye** un ejecutable independiente usando PyInstaller
-4. **Empaqueta** el ejecutable con documentación
+4. **Empaqueta** el ejecutable
 5. **Crea** carpeta de release específica para cada plataforma en `release/`
 
 ## Salida de Construcción
@@ -99,15 +99,10 @@ release/
 ```
 release/
 ├── windows-portable/
-│   ├── AlmacenDigital/          # Carpeta con ejecutable y dependencias
+│   └── AlmacenDigital/          # Solo la aplicación portable y sus dependencias
 │   │   ├── AlmacenDigital.exe
 │   │   ├── _internal/           # Todas las dependencias
 │   │   └── ...
-│   ├── Run_AlmacenDigital.bat  # Script lanzador
-│   ├── README.md
-│   ├── LICENSE
-│   ├── INSTALL.txt
-│   └── docs/
 ├── macos-portable/
 │   ├── AlmacenDigital/
 │   ├── Run_AlmacenDigital.sh
@@ -128,9 +123,9 @@ release/
 3. Opcional: Crear un instalador usando [Inno Setup](https://jrsoftware.org/isinfo.php)
 
 **Construcción Portable:**
-1. Comprimir la carpeta `release/windows-portable/` en un archivo ZIP llamado `AlmacenDigital-Portable-Windows.zip`
+1. Comprimir solo la carpeta `release/windows-portable/AlmacenDigital/` en un archivo ZIP llamado `AlmacenDigital-Portable-Windows.zip`
 2. Los usuarios pueden extraer en unidad USB o cualquier carpeta
-3. Ejecutar vía `Run_AlmacenDigital.bat` o directamente desde `AlmacenDigital/AlmacenDigital.exe`
+3. Ejecutar `AlmacenDigital/AlmacenDigital.exe`
 4. Base de datos y configuraciones almacenadas en carpeta de aplicación (completamente portable)
 
 ### macOS

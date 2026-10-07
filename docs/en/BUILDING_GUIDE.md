@@ -64,7 +64,7 @@ chmod +x scripts/build.sh
 
 1. **Cleans** previous build artifacts
 2. **Builds** a standalone executable using PyInstaller
-3. **Packages** the executable with documentation
+3. **Packages** the executable
 4. **Creates** platform-specific release folder in `release/`
 
 The build never bundles the developer's `data/` directory. The packaged application
@@ -102,15 +102,10 @@ release/
 ```
 release/
 ├── windows-portable/
-│   ├── AlmacenDigital/          # Folder with executable and dependencies
+│   └── AlmacenDigital/          # Only the portable application and dependencies
 │   │   ├── AlmacenDigital.exe
 │   │   ├── _internal/           # All dependencies
 │   │   └── ...
-│   ├── Run_AlmacenDigital.bat  # Launcher script
-│   ├── README.md
-│   ├── LICENSE
-│   ├── INSTALL.txt
-│   └── docs/
 ├── macos-portable/
 │   ├── AlmacenDigital/
 │   ├── Run_AlmacenDigital.sh
@@ -131,10 +126,10 @@ release/
 3. Optional: Create an installer using [Inno Setup](https://jrsoftware.org/isinfo.php)
 
 **Portable Build:**
-1. Compress the `release/windows-portable/` folder to a ZIP file named `AlmacenDigital-Portable-Windows.zip`
+1. Compress only the `release/windows-portable/AlmacenDigital/` folder to a ZIP file named `AlmacenDigital-Portable-Windows.zip`
 2. Users can extract to USB drive or any folder
-3. Run via `Run_AlmacenDigital.bat` or directly from `AlmacenDigital/AlmacenDigital.exe`
-4. Database and settings stored in app folder (fully portable)
+3. Run `AlmacenDigital/AlmacenDigital.exe`
+4. Database and settings are stored in the app folder (fully portable)
 
 ### macOS
 

@@ -111,7 +111,7 @@ def build_executable(portable=False):
         return False
 
 def create_release_package(portable=False):
-    """Create release package with documentation
+    """Create a release package.
     
     Args:
         portable: If True, creates portable package structure
@@ -123,6 +123,8 @@ def create_release_package(portable=False):
     # Create release directory
     suffix = "-portable" if portable else ""
     release_dir = Path('release') / f"{platform_name}{suffix}"
+    if release_dir.exists():
+        shutil.rmtree(release_dir)
     release_dir.mkdir(parents=True, exist_ok=True)
     
     # Copy executable or portable folder
@@ -138,9 +140,6 @@ def create_release_package(portable=False):
                 shutil.rmtree(bundled_data)
             (release_dir / 'AlmacenDigital' / 'data').mkdir(exist_ok=True)
             print("   [OK] Copied AlmacenDigital folder (portable)")
-            
-            # Create launcher scripts for portable version
-            create_portable_launcher(release_dir, platform_name)
     else:
         # For regular builds, copy single executable
         if platform_name == 'windows':
@@ -157,6 +156,10 @@ def create_release_package(portable=False):
             else:
                 shutil.copy2(dist_dir / exe_name, release_dir / exe_name)
             print(f"   [OK] Copied {exe_name}")
+
+    if portable:
+        print(f"\n[OK] Portable application package created in: {release_dir}")
+        return release_dir
     
     # Copy documentation
     docs_to_copy = ['README.md', 'LICENSE']
