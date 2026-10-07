@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+*.cover
+*.log
+htmlcov/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.virtualenv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Application Data
+data/
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+data/settings.json
+data/inventory.db
+data/app.log
+.drive_inventory_meta.xml
+
+# User exports, backups, and local configuration
+*.csv
+*.xls
+*.xlsx
+backups/
+exports/
+local/
+
+# Secrets and signing material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+credentials/
+secrets/
+
+# Build artifacts
+build/
+dist/
+release/
+*.exe
+*.app
+*.dmg
+*.tar.gz
+*.zip
+
+# OS Files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.cache/
+
+# Localization compiled files
+locales/**/*.mo
+
+# Screenshots (keep originals in docs/screenshots)
+*.png
+!docs/screenshots/*.png
+!splash.png

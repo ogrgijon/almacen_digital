@@ -1,0 +1,1529 @@
+# Legal disclaimer
+msgid ""
+msgstr ""
+"Project-Id-Version: Almacen Digital 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-09 12:00+0000\n"
+"PO-Revision-Date: 2026-01-09 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Aviso Legal - Almacen Digital"
+msgstr "Legal Notice - Almacen Digital"
+
+msgid ""
+"<b>AVISO LEGAL</b><br><br>\n"
+"\n"
+"Este software es de código abierto y se distribuye bajo la <b>Licencia Creative Commons Non-Commercial (CC BY-NC)</b>. Ha sido diseñado por <b>OGRGijón</b> como un prototipo experimental. Queda expresamente prohibida la comercialización de esta aplicación.<br><br>\n"
+"\n"
+"<b>IMPORTANTE:</b> El uso de este software es bajo la responsabilidad exclusiva del usuario. No se garantiza su funcionamiento perfecto ni se asume responsabilidad por cualquier pérdida de datos, daños o inconvenientes que puedan surgir de su utilización.<br><br>\n"
+"\n"
+"El código fuente completo está disponible en el repositorio oficial para revisión y modificación.<br><br>\n"
+"\n"
+"Al hacer clic en 'Aceptar', reconoce haber leído y entendido este aviso."
+msgstr ""
+"<b>LEGAL NOTICE</b><br><br>\n"
+"\n"
+"This software is open source and distributed under the <b>Creative Commons Non-Commercial License (CC BY-NC)</b>. It was designed by <b>OGRGijón</b> as an experimental prototype. Commercial use of this application is strictly prohibited.<br><br>\n"
+"\n"
+"<b>IMPORTANT:</b> The use of this software is under the sole responsibility of the user. Its perfect operation is not guaranteed and no responsibility is assumed for any data loss, damages, or inconveniences that may arise from its use.<br><br>\n"
+"\n"
+"The complete source code is available in the official repository for review and modification.<br><br>\n"
+"\n"
+"By clicking 'Accept', you acknowledge that you have read and understood this notice."
+
+msgid "Aceptar"
+msgstr "Accept"
+
+# Main Window
+msgid "Inventory"
+msgstr "Inventory"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Manage"
+msgstr "Manage"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Settings"
+msgstr "Settings"
+
+# Filters
+msgid "Apply Filters"
+msgstr "Apply Filters"
+
+msgid "Apply automatically"
+msgstr "Apply automatically"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Search everywhere:"
+msgstr "Search everywhere:"
+
+msgid "Match case"
+msgstr "Match case"
+
+msgid "Search in:"
+msgstr "Search in:"
+
+msgid "Filename"
+msgstr "Filename"
+
+msgid "File path"
+msgstr "File path"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Custom metadata"
+msgstr "Custom metadata"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "File type:"
+msgstr "File type:"
+
+msgid "All types"
+msgstr "All types"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Size:"
+msgstr "Size:"
+
+msgid "Any size"
+msgstr "Any size"
+
+msgid "Location:"
+msgstr "Location:"
+
+msgid "Drive:"
+msgstr "Drive:"
+
+msgid "All drives"
+msgstr "All drives"
+
+msgid "Path contains:"
+msgstr "Path contains:"
+
+msgid "Modification date:"
+msgstr "Modification date:"
+
+msgid "Any date"
+msgstr "Any date"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Last 7 days"
+msgstr "Last 7 days"
+
+msgid "Last 30 days"
+msgstr "Last 30 days"
+
+msgid "Last year"
+msgstr "Last year"
+
+msgid "Custom range"
+msgstr "Custom range"
+
+msgid "From:"
+msgstr "From:"
+
+msgid "To:"
+msgstr "To:"
+
+msgid "Metadata:"
+msgstr "Metadata:"
+
+msgid "Minimum rating:"
+msgstr "Minimum rating:"
+
+msgid "Any rating"
+msgstr "Any rating"
+
+msgid "Only files with comments"
+msgstr "Only files with comments"
+
+# Settings Dialog
+msgid "Almacen Digital Settings"
+msgstr "Almacen Digital Settings"
+
+msgid "Synchronization"
+msgstr "Synchronization"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Scanning"
+msgstr "Scanning"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Select Language:"
+msgstr "Select Language:"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "Restart required"
+msgstr "Restart required"
+
+msgid ""
+"The application needs to restart for the language change to take effect."
+msgstr ""
+"The application needs to restart for the language change to take effect."
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+# Status messages
+msgid "Found {0} files matching filters"
+msgstr "Found {0} files matching filters"
+
+msgid "Searching..."
+msgstr "Searching..."
+
+msgid "Loading page {0}..."
+msgstr "Loading page {0}..."
+
+msgid "No results"
+msgstr "No results"
+
+msgid "Showing all files"
+msgstr "Showing all files"
+
+# Quick filters
+msgid "All Files"
+msgstr "All Files"
+
+msgid "Recent Files"
+msgstr "Recent Files"
+
+msgid "Large Files"
+msgstr "Large Files"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Documents"
+msgstr "Documents"
+
+# Collection sidebar
+msgid "All Drives"
+msgstr "All Drives"
+
+msgid "Quick Filters"
+msgstr "Quick Filters"
+
+# Results view
+msgid "Quick search..."
+msgstr "Quick search..."
+
+msgid "Sort:"
+msgstr "Sort:"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Modified Date"
+msgstr "Modified Date"
+
+msgid "Drive"
+msgstr "Drive"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "of"
+
+# Left Sidebar
+msgid "🗂️ Storage"
+msgstr "🗂️ Storage"
+
+msgid "▼ Registered Drives"
+msgstr "▼ Registered Drives"
+
+msgid "▼ Recent Scans"
+msgstr "▼ Recent Scans"
+
+msgid "├─ Today"
+msgstr "├─ Today"
+
+msgid "├─ This week"
+msgstr "├─ This week"
+
+msgid "└─ This month"
+msgstr "└─ This month"
+
+msgid "▼ Quick Filters"
+msgstr "▼ Quick Filters"
+
+msgid "🔌 USB Root Folder"
+msgstr "🔌 USB Root Folder"
+
+msgid "📁 Folders"
+msgstr "📁 Folders"
+
+msgid "🖼️ Images"
+msgstr "🖼️ Images"
+
+msgid "🎵 Audio"
+msgstr "🎵 Audio"
+
+msgid "🎬 Videos"
+msgstr "🎬 Videos"
+
+msgid "📦 Compressed"
+msgstr "📦 Compressed"
+
+msgid "🔷 Large Files"
+msgstr "🔷 Large Files"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "files"
+msgstr "files"
+
+msgid "This week"
+msgstr "This week"
+
+msgid "This month"
+msgstr "This month"
+
+msgid "View in File Explorer"
+msgstr "View in File Explorer"
+
+msgid "Could not open explorer"
+msgstr "Could not open explorer"
+
+msgid "Could not determine drive letter."
+msgstr "Could not determine drive letter."
+
+# Main Window
+msgid ""
+"S.M.A.R.T. features unavailable: install smartmontools (smartctl) and add to"
+" PATH."
+msgstr ""
+"S.M.A.R.T. features unavailable: install smartmontools (smartctl) and add to"
+" PATH."
+
+msgid "📦 Inventory View"
+msgstr "📦 Inventory View"
+
+msgid "Browse, search, and filter your indexed files and folders"
+msgstr "Browse, search, and filter your indexed files and folders"
+
+msgid "💾 Manage Drives"
+msgstr "💾 Manage Drives"
+
+msgid "Add, scan, and manage your drives"
+msgstr "Add, scan, and manage your drives"
+
+msgid "📊 Statistics"
+msgstr "📊 Statistics"
+
+msgid "Total files"
+msgstr "Total files"
+
+msgid "Total folders"
+msgstr "Total folders"
+
+msgid "Total drives"
+msgstr "Total drives"
+
+msgid "Total size"
+msgstr "Total size"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Ready - Add a drive to begin"
+msgstr "Ready - Add a drive to begin"
+
+msgid "drives"
+msgstr "drives"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Failed to open settings dialog"
+msgstr "Failed to open settings dialog"
+
+# Settings Dialog
+msgid "Almacen Digital Settings"
+msgstr "Almacen Digital Settings"
+
+msgid "🔄 Synchronization"
+msgstr "🔄 Synchronization"
+
+msgid "🎨 Interface"
+msgstr "🎨 Interface"
+
+msgid "🔍 Scanning"
+msgstr "🔍 Scanning"
+
+msgid "🔎 Search"
+msgstr "🔎 Search"
+
+msgid "🌐 Language"
+msgstr "🌐 Language"
+
+msgid "📤 Export"
+msgstr "📤 Export"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Enable automatic synchronization"
+msgstr "Enable automatic synchronization"
+
+msgid "Backup Location"
+msgstr "Backup Location"
+
+msgid ""
+"Specify the path to the database backup file.\n"
+"This file should be in a synchronized folder (Google Drive, OneDrive, etc.)"
+msgstr ""
+"Specify the path to the database backup file.\n"
+"This file should be in a synchronized folder (Google Drive, OneDrive, etc.)"
+
+msgid "Browse..."
+msgstr "Browse..."
+
+msgid "Synchronization Direction"
+msgstr "Synchronization Direction"
+
+msgid "Bidirectional (synchronize in both directions)"
+msgstr "Bidirectional (synchronize in both directions)"
+
+msgid "From backup (download changes from backup)"
+msgstr "From backup (download changes from backup)"
+
+msgid "To backup (upload changes to backup)"
+msgstr "To backup (upload changes to backup)"
+
+msgid "Synchronization Timing"
+msgstr "Synchronization Timing"
+
+msgid "On application startup"
+msgstr "On application startup"
+
+msgid "On application shutdown"
+msgstr "On application shutdown"
+
+msgid "Test Connection"
+msgstr "Test Connection"
+
+msgid "Window"
+msgstr "Window"
+
+msgid "Default width:"
+msgstr "Default width:"
+
+msgid "Default height:"
+msgstr "Default height:"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid ""
+"The dark theme is integrated in the code. To change colors, edit config.py"
+msgstr ""
+"The dark theme is integrated in the code. To change colors, edit config.py"
+
+msgid "Scan Depth"
+msgstr "Scan Depth"
+
+msgid "Maximum depth:"
+msgstr "Maximum depth:"
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Excluded Folders"
+msgstr "Excluded Folders"
+
+msgid "These folders will be ignored during scanning. One per line:"
+msgstr "These folders will be ignored during scanning. One per line:"
+
+msgid "Ex: $RECYCLE.BIN, System Volume Information"
+msgstr "Ex: $RECYCLE.BIN, System Volume Information"
+
+msgid "Search Configuration"
+msgstr "Search Configuration"
+
+msgid "Search delay:"
+msgstr "Search delay:"
+
+msgid "Maximum results:"
+msgstr "Maximum results:"
+
+msgid "Language Configuration"
+msgstr "Language Configuration"
+
+msgid "Select Language:"
+msgstr "Select Language:"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid ""
+"Note: The application needs to restart for the language change to take "
+"effect."
+msgstr ""
+"Note: The application needs to restart for the language change to take "
+"effect."
+
+msgid "📤 Export Database"
+msgstr "📤 Export Database"
+
+msgid ""
+"Export the entire database to an Excel file (XLSX) with the following structure:\n"
+"• First sheet: Drive index with statistics\n"
+"• Subsequent sheets: One per drive with folder breakdown (folders only)"
+msgstr ""
+"Export the entire database to an Excel file (XLSX) with the following structure:\n"
+"• First sheet: Drive index with statistics\n"
+"• Subsequent sheets: One per drive with folder breakdown (folders only)"
+
+msgid "Export Options"
+msgstr "Export Options"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "Excel (XLSX)"
+msgstr "Excel (XLSX)"
+
+msgid "Folder depth:"
+msgstr "Folder depth:"
+
+msgid "All folders"
+msgstr "All folders"
+
+msgid "Root only (level 0)"
+msgstr "Root only (level 0)"
+
+msgid "Up to level 1"
+msgstr "Up to level 1"
+
+msgid "Up to level 2"
+msgstr "Up to level 2"
+
+msgid "Up to level 3"
+msgstr "Up to level 3"
+
+msgid "Up to level 5"
+msgstr "Up to level 5"
+
+msgid "Up to level 10"
+msgstr "Up to level 10"
+
+msgid "📤 Export Database"
+msgstr "📤 Export Database"
+
+msgid "❌ Cancel Export"
+msgstr "❌ Cancel Export"
+
+msgid ""
+"<b>Note:</b> Export may take several minutes depending on database size.\n"
+"The resulting file will contain folder information only, not individual files."
+msgstr ""
+"<b>Note:</b> Export may take several minutes depending on database size.\n"
+"The resulting file will contain folder information only, not individual files."
+
+msgid "Select Backup File"
+msgstr "Select Backup File"
+
+msgid "Please specify the backup path"
+msgstr "Please specify the backup path"
+
+msgid "Directory Not Found"
+msgstr "Directory Not Found"
+
+msgid ""
+"The directory does not exist:\n"
+"{backup_dir}\n"
+"\n"
+"Make sure the synchronized folder is available."
+msgstr ""
+"The directory does not exist:\n"
+"{backup_dir}\n"
+"\n"
+"Make sure the synchronized folder is available."
+
+msgid "Access Error"
+msgstr "Access Error"
+
+msgid ""
+"Cannot write to directory:\n"
+"{backup_dir}\n"
+"\n"
+"Error: {e}"
+msgstr ""
+"Cannot write to directory:\n"
+"{backup_dir}\n"
+"\n"
+"Error: {e}"
+
+msgid "Connection Successful"
+msgstr "Connection Successful"
+
+msgid ""
+"Backup file found and valid.\n"
+"\n"
+"ID: {unique_id}\n"
+"Version: {version}\n"
+"Last modified: {last_modified}"
+msgstr ""
+"Backup file found and valid.\n"
+"\n"
+"ID: {unique_id}\n"
+"Version: {version}\n"
+"Last modified: {last_modified}"
+
+msgid "Invalid Backup"
+msgstr "Invalid Backup"
+
+msgid "The file exists but does not contain valid synchronization metadata."
+msgstr "The file exists but does not contain valid synchronization metadata."
+
+msgid "New File"
+msgstr "New File"
+
+msgid ""
+"The backup file does not exist yet.\n"
+"It will be created automatically on the first synchronization.\n"
+"\n"
+"Location: {backup_file}"
+msgstr ""
+"The backup file does not exist yet.\n"
+"It will be created automatically on the first synchronization.\n"
+"\n"
+"Location: {backup_file}"
+
+msgid ""
+"Error testing connection:\n"
+"{e}"
+msgstr ""
+"Error testing connection:\n"
+"{e}"
+
+msgid "Please specify the backup file path"
+msgstr "Please specify the backup file path"
+
+msgid "Please select at least one synchronization timing"
+msgstr "Please select at least one synchronization timing"
+
+msgid "Restart required"
+msgstr "Restart required"
+
+msgid ""
+"The application needs to restart for the language change to take effect."
+msgstr ""
+"The application needs to restart for the language change to take effect."
+
+msgid "Settings Saved"
+msgstr "Settings Saved"
+
+msgid ""
+"Settings have been saved successfully.\n"
+"Some changes require restarting the application."
+msgstr ""
+"Settings have been saved successfully.\n"
+"Some changes require restarting the application."
+
+msgid "Save Export"
+msgstr "Save Export"
+
+msgid "Starting export..."
+msgstr "Starting export..."
+
+msgid ""
+"Error starting export:\n"
+"{error}"
+msgstr ""
+"Error starting export:\n"
+"{error}"
+
+msgid "Exporting... {percent}% completed"
+msgstr "Exporting... {percent}% completed"
+
+msgid "Export Completed"
+msgstr "Export Completed"
+
+msgid ""
+"{message}\n"
+"\n"
+"The file contains:\n"
+"• First sheet: Drive index\n"
+"• Subsequent sheets: Folders by drive"
+msgstr ""
+"{message}\n"
+"\n"
+"The file contains:\n"
+"• First sheet: Drive index\n"
+"• Subsequent sheets: Folders by drive"
+
+msgid "Export Error"
+msgstr "Export Error"
+
+msgid "Canceling export..."
+msgstr "Canceling export..."
+
+msgid ""
+"Could not save settings:\n"
+"{error}"
+msgstr ""
+"Could not save settings:\n"
+"{error}"
+
+msgid "% of Total"
+msgstr "% of Total"
+
+msgid "(Device added. Starting scan...)"
+msgstr "(Device added. Starting scan...)"
+
+msgid "(Saving to database...)"
+msgstr "(Saving to database...)"
+
+msgid "(Scan cancelled)"
+msgstr "(Scan cancelled)"
+
+msgid "(Scanning device...)"
+msgstr "(Scanning device...)"
+
+msgid "(Update completed)"
+msgstr "(Update completed)"
+
+msgid "<b>Average Folder Size:</b>"
+msgstr "<b>Average Folder Size:</b>"
+
+msgid "<b>Average Size:</b>"
+msgstr "<b>Average Size:</b>"
+
+msgid "<b>Capacity:</b>"
+msgstr "<b>Capacity:</b>"
+
+msgid "<b>Current Status:</b>"
+msgstr "<b>Current Status:</b>"
+
+msgid "<b>Files:</b>"
+msgstr "<b>Files:</b>"
+
+msgid "<b>Folders:</b>"
+msgstr "<b>Folders:</b>"
+
+msgid "<b>Free:</b> {size} ({percent:.1f}%)"
+msgstr "<b>Free:</b> {size} ({percent:.1f}%)"
+
+msgid "<b>Largest File:</b>"
+msgstr "<b>Largest File:</b>"
+
+msgid "<b>Largest Folder:</b>"
+msgstr "<b>Largest Folder:</b>"
+
+msgid "<b>Last Scanned:</b>"
+msgstr "<b>Last Scanned:</b>"
+
+msgid "<b>Most Common Type:</b>"
+msgstr "<b>Most Common Type:</b>"
+
+msgid "<b>Power On Hours:</b>"
+msgstr "<b>Power On Hours:</b>"
+
+msgid "<b>Reallocated Sectors:</b>"
+msgstr "<b>Reallocated Sectors:</b>"
+
+msgid "<b>Serial Number:</b>"
+msgstr "<b>Serial Number:</b>"
+
+msgid "<b>Temperature Trend:</b>"
+msgstr "<b>Temperature Trend:</b>"
+
+msgid "<b>Total Files in Folders:</b>"
+msgstr "<b>Total Files in Folders:</b>"
+
+msgid "<b>Total Folders:</b>"
+msgstr "<b>Total Folders:</b>"
+
+msgid "<b>Total Size:</b>"
+msgstr "<b>Total Size:</b>"
+
+msgid "<b>Total Subfolders:</b>"
+msgstr "<b>Total Subfolders:</b>"
+
+msgid "<b>Total:</b> {size}"
+msgstr "<b>Total:</b> {size}"
+
+msgid "<b>Used:</b> {size} ({percent:.1f}%)"
+msgstr "<b>Used:</b> {size} ({percent:.1f}%)"
+
+msgid "A device with the same name and letter already exists."
+msgstr "A device with the same name and letter already exists."
+
+msgid "Add Device"
+msgstr "Add Device"
+
+msgid "Add to inventory"
+msgstr "Add to inventory"
+
+msgid "Add your first drive from the list above."
+msgstr "Add your first drive from the list above."
+
+msgid "All"
+msgstr "All"
+
+msgid "Bidirectional (automatic)"
+msgstr "Bidirectional (automatic)"
+
+msgid "Cannot write to directory:\\n{backup_dir}\\n\\nError: {e}"
+msgstr "Cannot write to directory:\\n{backup_dir}\\n\\nError: {e}"
+
+msgid "Cannot write to directory:\\n{dir}\\n\\nError: {error}"
+msgstr "Cannot write to directory:\\n{dir}\\n\\nError: {error}"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Connect a USB/HDD device to begin."
+msgstr "Connect a USB/HDD device to begin."
+
+msgid "Connect to database to view inventory."
+msgstr "Connect to database to view inventory."
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "Connected devices"
+msgstr "Connected devices"
+
+msgid "Could not open file: {error}"
+msgstr "Could not open file: {error}"
+
+msgid "Could not open folder: {error}"
+msgstr "Could not open folder: {error}"
+
+msgid "Could not open metadata dialog: {error}"
+msgstr "Could not open metadata dialog: {error}"
+
+msgid "Could not read connected devices: {exc}"
+msgstr "Could not read connected devices: {exc}"
+
+msgid "Could not register drive: {error}"
+msgstr "Could not register drive: {error}"
+
+msgid "Could not remove drive: {exc}"
+msgstr "Could not remove drive: {exc}"
+
+msgid "Could not save settings:\\n{error}"
+msgstr "Could not save settings:\\n{error}"
+
+msgid "Count"
+msgstr "Count"
+
+msgid "Detected: 0 connected"
+msgstr "Detected: 0 connected"
+
+msgid "Detected: {count} connected"
+msgstr "Detected: {count} connected"
+
+msgid "Device Inventory"
+msgstr "Device Inventory"
+
+msgid "Device Manager"
+msgstr "Device Manager"
+
+msgid "Device updated: {files} files, {folders} folders"
+msgstr "Device updated: {files} files, {folders} folders"
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Drive not found."
+msgstr "Drive not found."
+
+msgid "Drive without letter"
+msgstr "Drive without letter"
+
+msgid "Drive {drive} is not connected or accessible."
+msgstr "Drive {drive} is not connected or accessible."
+
+msgid "Duplicate device: already exists in inventory."
+msgstr "Duplicate device: already exists in inventory."
+
+msgid "Edit Metadata"
+msgstr "Edit Metadata"
+
+msgid "Edit {item} Metadata"
+msgstr "Edit {item} Metadata"
+
+msgid "Error loading folder data: {error}"
+msgstr "Error loading folder data: {error}"
+
+msgid "Error loading statistics: {error}"
+msgstr "Error loading statistics: {error}"
+
+msgid "Error saving metadata:\\n{error}"
+msgstr "Error saving metadata:\\n{error}"
+
+msgid "Error saving: {error}"
+msgstr "Error saving: {error}"
+
+msgid "Error starting export:\\n{error}"
+msgstr "Error starting export:\\n{error}"
+
+msgid "Error testing connection:\\n{error}"
+msgstr "Error testing connection:\\n{error}"
+
+msgid "Error testing connection:\\n{e}"
+msgstr "Error testing connection:\\n{e}"
+
+msgid "Ex: C:/Users/User/Google Drive/HDDInventory/inventory_backup.db"
+msgstr "Ex: C:/Users/User/Google Drive/HDDInventory/inventory_backup.db"
+
+msgid "Extension"
+msgstr "Extension"
+
+msgid "File"
+msgstr "File"
+
+msgid "File Type Distribution"
+msgstr "File Type Distribution"
+
+msgid "File does not exist or is not accessible: {path}"
+msgstr "File does not exist or is not accessible: {path}"
+
+msgid "Filter by minimum star rating"
+msgstr "Filter by minimum star rating"
+
+msgid "Filter by name, letter or serial"
+msgstr "Filter by name, letter or serial"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Folder Size Distribution"
+msgstr "Folder Size Distribution"
+
+msgid "Folder does not exist or is not accessible: {path}"
+msgstr "Folder does not exist or is not accessible: {path}"
+
+msgid "Found {count:,} files | Total size: {size}"
+msgstr "Found {count:,} files | Total size: {size}"
+
+msgid "Grid view (coming soon)"
+msgstr "Grid view (coming soon)"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Inventory name:"
+msgstr "Inventory name:"
+
+msgid "Inventory: 0 drives"
+msgstr "Inventory: 0 drives"
+
+msgid "Inventory: {total} drives ({connected} connected)"
+msgstr "Inventory: {total} drives ({connected} connected)"
+
+msgid "Last scan"
+msgstr "Last scan"
+
+msgid "Metadata saved successfully."
+msgstr "Metadata saved successfully."
+
+msgid "Modified"
+msgstr "Modified"
+
+msgid "Name already used for that letter."
+msgstr "Name already used for that letter."
+
+msgid "Never"
+msgstr "Never"
+
+msgid "No connected drives."
+msgstr "No connected drives."
+
+msgid "No database connection."
+msgstr "No database connection."
+
+msgid "No drives found in inventory."
+msgstr "No drives found in inventory."
+
+msgid "No matches with current filter."
+msgstr "No matches with current filter."
+
+msgid "No registered devices."
+msgstr "No registered devices."
+
+msgid "No scan"
+msgstr "No scan"
+
+msgid "No selection."
+msgstr "No selection."
+
+msgid "No serial"
+msgstr "No serial"
+
+msgid "Notes or observations (optional)"
+msgstr "Notes or observations (optional)"
+
+msgid "Only from backup"
+msgstr "Only from backup"
+
+msgid "Only to backup"
+msgstr "Only to backup"
+
+msgid "Only updates from backup, never writes"
+msgstr "Only updates from backup, never writes"
+
+msgid "Only writes to backup, never reads"
+msgstr "Only writes to backup, never reads"
+
+msgid "Open containing folder"
+msgstr "Open containing folder"
+
+msgid "Open file"
+msgstr "Open file"
+
+msgid "Open in inventory"
+msgstr "Open in inventory"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Page {current} of {total} ({results:,} results)"
+msgstr "Page {current} of {total} ({results:,} results)"
+
+msgid "Path"
+msgstr "Path"
+
+msgid "Refresh inventory"
+msgstr "Refresh inventory"
+
+msgid "Refresh list"
+msgstr "Refresh list"
+
+msgid "Register New Device"
+msgstr "Register New Device"
+
+msgid "Register in inventory"
+msgstr "Register in inventory"
+
+msgid "Remove device"
+msgstr "Remove device"
+
+msgid "Remove from inventory"
+msgstr "Remove from inventory"
+
+msgid "Results per page:"
+msgstr "Results per page:"
+
+msgid "Saved"
+msgstr "Saved"
+
+msgid "Search:"
+msgstr "Search:"
+
+msgid "Select Drive:"
+msgstr "Select Drive:"
+
+msgid "Select a connected drive."
+msgstr "Select a connected drive."
+
+msgid "Select a device to save it to inventory."
+msgstr "Select a device to save it to inventory."
+
+msgid "Select a drive for more actions."
+msgstr "Select a drive for more actions."
+
+msgid "Select a drive to add it."
+msgstr "Select a drive to add it."
+
+msgid "Select a drive to learn about its capacity, format and free space."
+msgstr "Select a drive to learn about its capacity, format and free space."
+
+msgid "Showing {count} of {total} drives"
+msgstr "Showing {count} of {total} drives"
+
+msgid "Showing {start:,}-{end:,} of {total:,} files | Total size: {size}"
+msgstr "Showing {start:,}-{end:,} of {total:,} files | Total size: {size}"
+
+msgid "Sync Direction"
+msgstr "Sync Direction"
+
+msgid "Sync Settings"
+msgstr "Sync Settings"
+
+msgid "Sync Timing"
+msgstr "Sync Timing"
+
+msgid "Synchronize when closing the application"
+msgstr "Synchronize when closing the application"
+
+msgid "Synchronize when starting the application"
+msgstr "Synchronize when starting the application"
+
+msgid "Synchronizes automatically using the most recent version"
+msgstr "Synchronizes automatically using the most recent version"
+
+msgid "Table view"
+msgstr "Table view"
+
+msgid "Tags:"
+msgstr "Tags:"
+
+msgid "This device is already registered by serial number."
+msgstr "This device is already registered by serial number."
+
+msgid "Total Size"
+msgstr "Total Size"
+
+msgid "Tree view (coming soon)"
+msgstr "Tree view (coming soon)"
+
+msgid "Treemap error: {error}"
+msgstr "Treemap error: {error}"
+
+msgid "Unknown Drive"
+msgstr "Unknown Drive"
+
+msgid "Unnamed"
+msgstr "Unnamed"
+
+msgid "Update Device Inventory"
+msgstr "Update Device Inventory"
+
+msgid "Updating{dots}%p%"
+msgstr "Updating{dots}%p%"
+
+msgid "View Statistics"
+msgstr "View Statistics"
+
+msgid "View the current status of each drive."
+msgstr "View the current status of each drive."
+
+msgid "View:"
+msgstr "View:"
+
+msgid "[no extension]"
+msgstr "[no extension]"
+
+msgid "e.g. Photo backup 2026"
+msgstr "e.g. Photo backup 2026"
+
+msgid "string"
+msgstr "string"
+
+msgid "string with {placeholder}"
+msgstr "string with {placeholder}"
+
+msgid "{count:,}"
+msgstr "{count:,}"
+
+msgid "{ext} ({count:,} files)"
+msgstr "{ext} ({count:,} files)"
+
+msgid "{hours:,} hours"
+msgstr "{hours:,} hours"
+
+msgid "{icon} S.M.A.R.T.: {status}"
+msgstr "{icon} S.M.A.R.T.: {status}"
+
+msgid "{label} ({letter}) — Update completed"
+msgstr "{label} ({letter}) — Update completed"
+
+msgid "{label} ({letter}) — Updating... {percent}%"
+msgstr "{label} ({letter}) — Updating... {percent}%"
+
+msgid "{name} ({size})"
+msgstr "{name} ({size})"
+
+msgid "{path} ({size})"
+msgstr "{path} ({size})"
+
+msgid "→ Stable"
+msgstr "→ Stable"
+
+msgid "⚠️ Increasing"
+msgstr "⚠️ Increasing"
+
+msgid "⚠️ S.M.A.R.T.: Unavailable"
+msgstr "⚠️ S.M.A.R.T.: Unavailable"
+
+msgid "⚡ Power Hours"
+msgstr "⚡ Power Hours"
+
+msgid "✅ Stable"
+msgstr "✅ Stable"
+
+msgid "🌡️ Temp (°C)"
+msgstr "🌡️ Temp (°C)"
+
+msgid "🏷️ Type"
+msgstr "🏷️ Type"
+
+msgid "💿 Storage Usage"
+msgstr "💿 Storage Usage"
+
+msgid "📁 Folder"
+msgstr "📁 Folder"
+
+msgid "📂 Path"
+msgstr "📂 Path"
+
+msgid "📂 Subfolders"
+msgstr "📂 Subfolders"
+
+msgid "📄 Documents"
+msgstr "📄 Documents"
+
+msgid "📄 File Name"
+msgstr "📄 File Name"
+
+msgid "📄 File Types"
+msgstr "📄 File Types"
+
+msgid "📄 Files"
+msgstr "📄 Files"
+
+msgid "📄 Largest Files"
+msgstr "📄 Largest Files"
+
+msgid "📅 Date"
+msgstr "📅 Date"
+
+msgid "📈 % of Total"
+msgstr "📈 % of Total"
+
+msgid "📈 Rising"
+msgstr "📈 Rising"
+
+msgid "📈 Trends Summary"
+msgstr "📈 Trends Summary"
+
+msgid "📉 Falling"
+msgstr "📉 Falling"
+
+msgid "📊 Overview"
+msgstr "📊 Overview"
+
+msgid "📊 Size"
+msgstr "📊 Size"
+
+msgid "📊 Status"
+msgstr "📊 Status"
+
+msgid "📋 Drive Details"
+msgstr "📋 Drive Details"
+
+msgid ""
+"📝 Note: File and folder statistics are from the last scan. Storage usage "
+"reflects current disk state."
+msgstr ""
+"📝 Note: File and folder statistics are from the last scan. Storage usage "
+"reflects current disk state."
+
+msgid "🔄 Loading statistics panel..."
+msgstr "🔄 Loading statistics panel..."
+
+msgid "🔄 Reallocated"
+msgstr "🔄 Reallocated"
+
+msgid "🔧 S.M.A.R.T."
+msgstr "🔧 S.M.A.R.T."
+
+msgid "🗂️ Treemap"
+msgstr "🗂️ Treemap"
+
+msgid "Largest Files"
+msgstr "Largest Files"
+
+msgid "Top 20 largest files on this drive by size."
+msgstr "Top 20 largest files on this drive by size."
+
+msgid "Drive File Statistics"
+msgstr "Drive File Statistics"
+
+msgid "Total Files"
+msgstr "Total Files"
+
+msgid "📄 No file data available for this drive."
+msgstr "📄 No file data available for this drive."
+
+msgid "🗂️ Folder Size Treemap"
+msgstr "🗂️ Folder Size Treemap"
+
+msgid ""
+"Visual representation of folder sizes. Larger rectangles represent larger "
+"folders."
+msgstr ""
+"Visual representation of folder sizes. Larger rectangles represent larger "
+"folders."
+
+msgid ""
+"Click here to load folder size treemap\n"
+"\n"
+"This visualization analyzes folder structures and may take a moment to load."
+msgstr ""
+"Click here to load folder size treemap\n"
+"\n"
+"This visualization analyzes folder structures and may take a moment to load."
+
+msgid "About:"
+msgstr "License"
+
+msgid "AVISOLEGAL_TEXT"
+msgstr ""
+"<b>LEGAL NOTICE</b><br><br>\n"
+"\n"
+"This software is open source and distributed under the <b>Creative Commons Non-Commercial License (CC BY-NC)</b>. It was designed by <b>OGRGijón</b> as an experimental prototype. Commercial use of this application is strictly prohibited.<br><br>\n"
+"\n"
+"<b>IMPORTANT:</b> The use of this software is under the sole responsibility of the user. Its perfect operation is not guaranteed and no responsibility is assumed for any data loss, damages, or inconveniences that may arise from its use.<br><br>\n"
+"\n"
+"The complete source code is available in the official repository for review and modification.<br><br>\n"
+"\n"
+"By clicking 'Accept', you acknowledge that you have read and understood this notice."
+
+msgid " COLLECTIONS"
+msgstr " COLLECTIONS"
+
+msgid "<b>File Consumption by Folder (Treemap)</b>"
+msgstr "<b>File Consumption by Folder (Treemap)</b>"
+
+msgid "<b>Total Files:</b>"
+msgstr "<b>Total Files:</b>"
+
+msgid "Administrator Privileges Required"
+msgstr "Administrator Privileges Required"
+
+msgid "Breakdown of files by type/extension on this drive."
+msgstr "Breakdown of files by type/extension on this drive."
+
+msgid "Capacity"
+msgstr "Capacity"
+
+msgid ""
+"Click here to load folder size treemap\\n\\nThis visualization analyzes "
+"folder structures and may take a moment to load."
+msgstr ""
+"Click here to load folder size treemap\\n\\nThis visualization analyzes "
+"folder structures and may take a moment to load."
+
+msgid "Could not update notes: {error}"
+msgstr "Could not update notes: {error}"
+
+msgid "Edit Notes"
+msgstr "Edit Notes"
+
+msgid "Edit Notes - {label}"
+msgstr "Edit Notes - {label}"
+
+msgid "Elevation Failed"
+msgstr "Elevation Failed"
+
+msgid "Failed to restart as administrator:\\n\\n{str(e)}"
+msgstr "Failed to restart as administrator:\\n\\n{str(e)}"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "No file type data to display."
+msgstr "No file type data to display."
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Notes for {label} - Double-click or use Edit Notes button"
+msgstr "Notes for {label} - Double-click or use Edit Notes button"
+
+msgid "Notes updated successfully"
+msgstr "Notes updated successfully"
+
+msgid "Notes:"
+msgstr "Notes:"
+
+msgid "S.M.A.R.T. Information"
+msgstr "S.M.A.R.T. Information"
+
+msgid "SMART Data Updated"
+msgstr "SMART Data Updated"
+
+msgid "SMART data has been refreshed and saved to the database."
+msgstr "SMART data has been refreshed and saved to the database."
+
+msgid "Show Treemap"
+msgstr "Show Treemap"
+
+msgid "Total Capacity: {capacity} | Total Free Space: {free}"
+msgstr "Total Capacity: {capacity} | Total Free Space: {free}"
+
+msgid "📄 File Type Distribution"
+msgstr "📄 File Type Distribution"
+
+msgid "📊 Details"
+msgstr "📊 Details"
+
+msgid "🔒 Run as Administrator"
+msgstr "🔒 Run as Administrator"
+
+msgid "🚀 Run as Administrator"
+msgstr "🚀 Run as Administrator"
+
+msgid ""
+"📊 No historical S.M.A.R.T. data available.\\nData will be collected over "
+"time as the drive is monitored."
+msgstr ""
+"📊 No historical S.M.A.R.T. data available.\\nData will be collected over "
+"time as the drive is monitored."
+
+msgid "🔄 Refresh"
+msgstr "🔄 Refresh"
+
+msgid "🔧 S.M.A.R.T. Health Monitor"
+msgstr "🔧 S.M.A.R.T. Health Monitor"
+
+msgid "Error applying filters:\\n{error}"
+msgstr "Error applying filters:\\n{error}"
+
+msgid "Found {total_count:,} files matching filters"
+msgstr "Found {total_count:,} files matching filters"
+
+msgid "Almacén Digital Settings"
+msgstr "Almacén Digital Settings"
+
+msgid "Aviso Legal - Almacén Digital"
+msgstr "Aviso Legal - Almacén Digital"
+
+msgid ""
+"🔄 Analyzing folder structure...\\nThis may take a few moments for large "
+"drives."
+msgstr ""
+"🔄 Analyzing folder structure...\\nThis may take a few moments for large "
+"drives."
+
+msgid "Top Folders:"
+msgstr "Top Folders:"
+
+msgid "Top Types"
+msgstr "Top Types"
+
+msgid "Critical"
+msgstr "Critical"
+
+msgid "Free:"
+msgstr "Free:"
+
+msgid "Good"
+msgstr "Good"
+
+msgid "Moderate"
+msgstr "Moderate"
+
+msgid "Space Usage:"
+msgstr "Space Usage:"
+
+msgid "Used:"
+msgstr "Used:"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Detailed analysis of folder sizes and file counts."
+msgstr "Detailed analysis of folder sizes and file counts."
+
+msgid "📁 Folder Analysis"
+msgstr "📁 Folder Analysis"
+
+msgid "📁 No folder data available for this drive."
+msgstr "📁 No folder data available for this drive."
+
+msgid "📁 No folder size data available for this drive."
+msgstr "📁 No folder size data available for this drive."
+
+msgid "📄 No file type data available for this drive."
+msgstr "📄 No file type data available for this drive."
+
+msgid "📊 Drive Folder Statistics"
+msgstr "📊 Drive Folder Statistics"
+
+msgid "📊 Health History"
+msgstr "📊 Health History"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Yes"

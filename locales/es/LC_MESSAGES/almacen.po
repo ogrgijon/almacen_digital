@@ -1,0 +1,1660 @@
+# Aviso legal (legal disclaimer)
+msgid ""
+msgstr ""
+"Project-Id-Version: Almacen Digital 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-09 12:00+0000\n"
+"PO-Revision-Date: 2026-01-09 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Aviso Legal - Almacen Digital"
+msgstr "Aviso Legal - Almacen Digital"
+
+msgid "AVISOLEGAL_TEXT"
+msgstr ""
+"<b>AVISO LEGAL</b><br><br>\n"
+"\n"
+"Este software es de código abierto y se distribuye bajo la <b>Licencia Creative Commons Non-Commercial (CC BY-NC)</b>. Ha sido diseñado por <b>OGRGijón</b> como un prototipo experimental. Queda expresamente prohibida la comercialización de esta aplicación.<br><br>\n"
+"\n"
+"<b>IMPORTANTE:</b> El uso de este software es bajo la responsabilidad exclusiva del usuario. No se garantiza su funcionamiento perfecto ni se asume responsabilidad por cualquier pérdida de datos, daños o inconvenientes que puedan surgir de su utilización.<br><br>\n"
+"\n"
+"El código fuente completo está disponible en el repositorio oficial para revisión y modificación.<br><br>\n"
+"\n"
+"Al hacer clic en 'Aceptar', reconoce haber leído y entendido este aviso."
+
+msgid "Aceptar"
+msgstr "Aceptar"
+
+# Main Window
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Manage"
+msgstr "Gestionar"
+
+msgid "Statistics"
+msgstr "Estadísticas"
+
+msgid "Settings"
+msgstr "Configuración"
+
+# Filters
+msgid "Apply Filters"
+msgstr "Aplicar Filtros"
+
+msgid "Apply automatically"
+msgstr "Aplicar automáticamente"
+
+msgid "Reset"
+msgstr "Restablecer"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid "Search everywhere:"
+msgstr "Buscar en todo:"
+
+msgid "Match case"
+msgstr "Coincidir mayúsculas/minúsculas"
+
+msgid "Search in:"
+msgstr "Buscar en:"
+
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+msgid "File path"
+msgstr "Ruta del archivo"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Custom metadata"
+msgstr "Metadatos personalizados"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "File type:"
+msgstr "Tipo de archivo:"
+
+msgid "All types"
+msgstr "Todos los tipos"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Images"
+msgstr "Imágenes"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Archives"
+msgstr "Comprimidos"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Size:"
+msgstr "Tamaño:"
+
+msgid "Any size"
+msgstr "Cualquier tamaño"
+
+msgid "Location:"
+msgstr "Ubicación:"
+
+msgid "Drive:"
+msgstr "Unidad:"
+
+msgid "All drives"
+msgstr "Todas las unidades"
+
+msgid "Path contains:"
+msgstr "Ruta contiene:"
+
+msgid "Modification date:"
+msgstr "Fecha de modificación:"
+
+msgid "Any date"
+msgstr "Cualquier fecha"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Last 7 days"
+msgstr "Últimos 7 días"
+
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+msgid "Last year"
+msgstr "Último año"
+
+msgid "Custom range"
+msgstr "Rango personalizado"
+
+msgid "From:"
+msgstr "Desde:"
+
+msgid "To:"
+msgstr "Hasta:"
+
+msgid "Metadata:"
+msgstr "Metadatos:"
+
+msgid "Minimum rating:"
+msgstr "Calificación mínima:"
+
+msgid "Any rating"
+msgstr "Cualquier calificación"
+
+msgid "Only files with comments"
+msgstr "Solo archivos con comentarios"
+
+# Settings Dialog
+msgid "Almacén Digital Settings"
+msgstr "Configuración de Almacén Digital"
+
+msgid "Synchronization"
+msgstr "Sincronización"
+
+msgid "Interface"
+msgstr "Interfaz"
+
+msgid "Scanning"
+msgstr "Escaneo"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select Language:"
+msgstr "Seleccionar Idioma:"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "English"
+msgstr "English"
+
+msgid "Restart required"
+msgstr "Reinicio requerido"
+
+msgid ""
+"The application needs to restart for the language change to take effect."
+msgstr ""
+"La aplicación necesita reiniciarse para que el cambio de idioma surta "
+"efecto."
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+# Status messages
+msgid "Found {0} files matching filters"
+msgstr "Se encontraron {0} archivos que coinciden con los filtros"
+
+msgid "Searching..."
+msgstr "Buscando..."
+
+msgid "Loading page {0}..."
+msgstr "Cargando página {0}..."
+
+msgid "No results"
+msgstr "Sin resultados"
+
+msgid "Showing all files"
+msgstr "Mostrando todos los archivos"
+
+# Quick filters
+msgid "All Files"
+msgstr "Todos los archivos"
+
+msgid "Recent Files"
+msgstr "Archivos recientes"
+
+msgid "Large Files"
+msgstr "Archivos grandes"
+
+msgid "Images"
+msgstr "Imágenes"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Documents"
+msgstr "Documentos"
+
+# Collection sidebar
+msgid "All Drives"
+msgstr "Todas las unidades"
+
+msgid "Quick Filters"
+msgstr "Filtros rápidos"
+
+# Results view
+msgid "Quick search..."
+msgstr "Búsqueda rápida..."
+
+msgid "Sort:"
+msgstr "Ordenar:"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Modified Date"
+msgstr "Fecha de modificación"
+
+msgid "Drive"
+msgstr "Unidad"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "of"
+msgstr "de"
+
+# Left Sidebar
+msgid "🗂️ Storage"
+msgstr "🗂️ Almacén"
+
+msgid "▼ Registered Drives"
+msgstr "▼ Unidades registradas"
+
+msgid "▼ Recent Scans"
+msgstr "▼ Escaneos recientes"
+
+msgid "├─ Today"
+msgstr "├─ Hoy"
+
+msgid "├─ This week"
+msgstr "├─ Esta semana"
+
+msgid "└─ This month"
+msgstr "└─ Este mes"
+
+msgid "▼ Quick Filters"
+msgstr "▼ Filtros rápidos"
+
+msgid "🔌 USB Root Folder"
+msgstr "🔌 USB Root Folder"
+
+msgid "📁 Folders"
+msgstr "📁 Carpetas"
+
+msgid "🖼️ Images"
+msgstr "🖼️ Imágenes"
+
+msgid "🎵 Audio"
+msgstr "🎵 Audio"
+
+msgid "🎬 Videos"
+msgstr "🎬 Videos"
+
+msgid "📦 Compressed"
+msgstr "📦 Comprimidos"
+
+msgid "🔷 Large Files"
+msgstr "🔷 Archivos grandes"
+
+msgid "Unknown"
+msgstr "Desconocida"
+
+msgid "files"
+msgstr "archivos"
+
+msgid "This week"
+msgstr "Esta semana"
+
+msgid "This month"
+msgstr "Este mes"
+
+msgid "View in File Explorer"
+msgstr "Ver en el explorador de archivos"
+
+msgid "Could not open explorer"
+msgstr "No se pudo abrir el explorador"
+
+msgid "Could not determine drive letter."
+msgstr "No se pudo determinar la letra de la unidad."
+
+# Main Window
+msgid ""
+"S.M.A.R.T. features unavailable: install smartmontools (smartctl) and add to"
+" PATH."
+msgstr ""
+"Funciones S.M.A.R.T. no disponibles: instale smartmontools (smartctl) y "
+"agréguelo al PATH."
+
+msgid "📦 Inventory View"
+msgstr "📦 Vista de Inventario"
+
+msgid "Browse, search, and filter your indexed files and folders"
+msgstr "Navegar, buscar y filtrar sus archivos y carpetas indexados"
+
+msgid "💾 Manage Drives"
+msgstr "💾 Gestionar Unidades"
+
+msgid "Add, scan, and manage your drives"
+msgstr "Agregar, escanear y gestionar sus unidades"
+
+msgid "📊 Statistics"
+msgstr "📊 Estadísticas"
+
+msgid "Total files"
+msgstr "Total de archivos"
+
+msgid "Total folders"
+msgstr "Total de carpetas"
+
+msgid "Total drives"
+msgstr "Total de unidades"
+
+msgid "Total size"
+msgstr "Tamaño total"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Ready - Add a drive to begin"
+msgstr "Listo - Agregue una unidad para comenzar"
+
+msgid "drives"
+msgstr "unidades"
+
+msgid "Settings saved"
+msgstr "Configuración guardada"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Failed to open settings dialog"
+msgstr "Error al abrir el diálogo de configuración"
+
+# Settings Dialog
+msgid "Almacén Digital Settings"
+msgstr "Configuración de Almacén Digital"
+
+msgid "🔄 Synchronization"
+msgstr "🔄 Sincronización"
+
+msgid "🎨 Interface"
+msgstr "🎨 Interfaz"
+
+msgid "🔍 Scanning"
+msgstr "🔍 Escaneo"
+
+msgid "🔎 Search"
+msgstr "🔎 Búsqueda"
+
+msgid "🌐 Language"
+msgstr "🌐 Idioma"
+
+msgid "📤 Export"
+msgstr "📤 Exportar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Enable automatic synchronization"
+msgstr "Habilitar sincronización automática"
+
+msgid "Backup Location"
+msgstr "Ubicación del Respaldo"
+
+msgid ""
+"Specify the path to the database backup file.\n"
+"This file should be in a synchronized folder (Google Drive, OneDrive, etc.)"
+msgstr ""
+"Especifique la ruta al archivo de respaldo de la base de datos.\n"
+"Este archivo debe estar en una carpeta sincronizada (Google Drive, OneDrive, etc.)"
+
+msgid "Browse..."
+msgstr "Examinar..."
+
+msgid "Synchronization Direction"
+msgstr "Dirección de Sincronización"
+
+msgid "Bidirectional (synchronize in both directions)"
+msgstr "Bidireccional (sincronizar en ambas direcciones)"
+
+msgid "From backup (download changes from backup)"
+msgstr "Desde respaldo (descargar cambios del respaldo)"
+
+msgid "To backup (upload changes to backup)"
+msgstr "Hacia respaldo (subir cambios al respaldo)"
+
+msgid "Synchronization Timing"
+msgstr "Momento de Sincronización"
+
+msgid "On application startup"
+msgstr "Al iniciar la aplicación"
+
+msgid "On application shutdown"
+msgstr "Al cerrar la aplicación"
+
+msgid "Test Connection"
+msgstr "Probar Conexión"
+
+msgid "Window"
+msgstr "Ventana"
+
+msgid "Default width:"
+msgstr "Ancho predeterminado:"
+
+msgid "Default height:"
+msgstr "Alto predeterminado:"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid ""
+"The dark theme is integrated in the code. To change colors, edit config.py"
+msgstr ""
+"El tema oscuro está integrado en el código. Para cambiar colores, edite "
+"config.py"
+
+msgid "Scan Depth"
+msgstr "Profundidad de Escaneo"
+
+msgid "Maximum depth:"
+msgstr "Profundidad máxima:"
+
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgid "Excluded Folders"
+msgstr "Carpetas Excluidas"
+
+msgid "These folders will be ignored during scanning. One per line:"
+msgstr "Estas carpetas serán ignoradas durante el escaneo. Una por línea:"
+
+msgid "Ex: $RECYCLE.BIN, System Volume Information"
+msgstr "Ej: $RECYCLE.BIN, System Volume Information"
+
+msgid "Search Configuration"
+msgstr "Configuración de Búsqueda"
+
+msgid "Search delay:"
+msgstr "Retraso de búsqueda:"
+
+msgid "Maximum results:"
+msgstr "Resultados máximos:"
+
+msgid "Language Configuration"
+msgstr "Configuración de Idioma"
+
+msgid "Select Language:"
+msgstr "Seleccionar Idioma:"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid ""
+"Note: The application needs to restart for the language change to take "
+"effect."
+msgstr ""
+"Nota: La aplicación necesita reiniciarse para que el cambio de idioma surta "
+"efecto."
+
+msgid "📤 Export Database"
+msgstr "📤 Exportar Base de Datos"
+
+msgid ""
+"Export the entire database to an Excel file (XLSX) with the following structure:\n"
+"• First sheet: Drive index with statistics\n"
+"• Subsequent sheets: One per drive with folder breakdown (folders only)"
+msgstr ""
+"Exporta toda la base de datos a un archivo Excel (XLSX) con la siguiente estructura:\n"
+"• Primera hoja: Índice de unidades con estadísticas\n"
+"• Hojas siguientes: Una por unidad con desglose de carpetas (solo carpetas)"
+
+msgid "Export Options"
+msgstr "Opciones de Exportación"
+
+msgid "Format:"
+msgstr "Formato:"
+
+msgid "Excel (XLSX)"
+msgstr "Excel (XLSX)"
+
+msgid "Folder depth:"
+msgstr "Profundidad de carpetas:"
+
+msgid "All folders"
+msgstr "Todas las carpetas"
+
+msgid "Root only (level 0)"
+msgstr "Solo raíz (nivel 0)"
+
+msgid "Up to level 1"
+msgstr "Hasta nivel 1"
+
+msgid "Up to level 2"
+msgstr "Hasta nivel 2"
+
+msgid "Up to level 3"
+msgstr "Hasta nivel 3"
+
+msgid "Up to level 5"
+msgstr "Hasta nivel 5"
+
+msgid "Up to level 10"
+msgstr "Hasta nivel 10"
+
+msgid "📤 Export Database"
+msgstr "📤 Exportar Base de Datos"
+
+msgid "❌ Cancel Export"
+msgstr "❌ Cancelar Exportación"
+
+msgid ""
+"<b>Note:</b> Export may take several minutes depending on database size.\n"
+"The resulting file will contain folder information only, not individual files."
+msgstr ""
+"<b>Nota:</b> La exportación puede tardar varios minutos dependiendo del tamaño de la base de datos.\n"
+"El archivo resultante contendrá solo información de carpetas, no archivos individuales."
+
+msgid "Select Backup File"
+msgstr "Seleccionar Archivo de Respaldo"
+
+msgid "Please specify the backup path"
+msgstr "Por favor especifique la ruta del respaldo"
+
+msgid "Directory Not Found"
+msgstr "Directorio no Encontrado"
+
+msgid ""
+"The directory does not exist:\n"
+"{backup_dir}\n"
+"\n"
+"Make sure the synchronized folder is available."
+msgstr ""
+"El directorio no existe:\n"
+"{backup_dir}\n"
+"\n"
+"Asegúrese de que la carpeta sincronizada esté disponible."
+
+msgid "Access Error"
+msgstr "Error de Acceso"
+
+msgid ""
+"Cannot write to directory:\n"
+"{backup_dir}\n"
+"\n"
+"Error: {e}"
+msgstr ""
+"No se puede escribir en el directorio:\n"
+"{backup_dir}\n"
+"\n"
+"Error: {e}"
+
+msgid "Connection Successful"
+msgstr "Conexión Exitosa"
+
+msgid ""
+"Backup file found and valid.\n"
+"\n"
+"ID: {unique_id}\n"
+"Version: {version}\n"
+"Last modified: {last_modified}"
+msgstr ""
+"Archivo de respaldo encontrado y válido.\n"
+"\n"
+"ID: {unique_id}\n"
+"Versión: {version}\n"
+"Última modificación: {last_modified}"
+
+msgid "Invalid Backup"
+msgstr "Respaldo Inválido"
+
+msgid "The file exists but does not contain valid synchronization metadata."
+msgstr ""
+"El archivo existe pero no contiene metadatos de sincronización válidos."
+
+msgid "New File"
+msgstr "Archivo Nuevo"
+
+msgid ""
+"The backup file does not exist yet.\n"
+"It will be created automatically on the first synchronization.\n"
+"\n"
+"Location: {backup_file}"
+msgstr ""
+"El archivo de respaldo no existe aún.\n"
+"Se creará automáticamente en la primera sincronización.\n"
+"\n"
+"Ubicación: {backup_file}"
+
+msgid ""
+"Error testing connection:\n"
+"{e}"
+msgstr ""
+"Error al probar la conexión:\n"
+"{e}"
+
+msgid "Please specify the backup file path"
+msgstr "Por favor especifique la ruta del archivo de respaldo"
+
+msgid "Please select at least one synchronization timing"
+msgstr "Por favor seleccione al menos un momento de sincronización"
+
+msgid "Restart required"
+msgstr "Reinicio requerido"
+
+msgid ""
+"The application needs to restart for the language change to take effect."
+msgstr ""
+"La aplicación necesita reiniciarse para que el cambio de idioma surta "
+"efecto."
+
+msgid "Settings Saved"
+msgstr "Configuración Guardada"
+
+msgid ""
+"Settings have been saved successfully.\n"
+"Some changes require restarting the application."
+msgstr ""
+"La configuración se ha guardado correctamente.\n"
+"Algunos cambios requieren reiniciar la aplicación."
+
+msgid "Save Export"
+msgstr "Guardar Exportación"
+
+msgid "Starting export..."
+msgstr "Iniciando exportación..."
+
+msgid ""
+"Error starting export:\n"
+"{error}"
+msgstr ""
+"Error al iniciar la exportación:\n"
+"{error}"
+
+msgid "Exporting... {percent}% completed"
+msgstr "Exportando... {percent}% completado"
+
+msgid "Export Completed"
+msgstr "Exportación Completada"
+
+msgid ""
+"{message}\n"
+"\n"
+"The file contains:\n"
+"• First sheet: Drive index\n"
+"• Subsequent sheets: Folders by drive"
+msgstr ""
+"{message}\n"
+"\n"
+"El archivo contiene:\n"
+"• Primera hoja: Índice de unidades\n"
+"• Hojas siguientes: Carpetas por unidad"
+
+msgid "Export Error"
+msgstr "Error en Exportación"
+
+msgid "Canceling export..."
+msgstr "Cancelando exportación..."
+
+msgid ""
+"Could not save settings:\n"
+"{error}"
+msgstr ""
+"No se pudo guardar la configuración:\n"
+"{error}"
+
+# Manage View
+msgid "Register New Device"
+msgstr "Registrar Nuevo Dispositivo"
+
+msgid "Select a drive to learn about its capacity, format and free space."
+msgstr ""
+"Selecciona una unidad para conocer su capacidad, formato y espacio libre."
+
+msgid "Device Manager"
+msgstr "Gestor de Dispositivos"
+
+msgid ""
+"1. Review your current inventory. 2. To add a new device, click 'Add "
+"Device'. 3. Follow the steps to register the drive."
+msgstr ""
+"1. Revisa tu inventario actual. 2. Para agregar un nuevo dispositivo, pulsa "
+"'Agregar Dispositivo'. 3. Sigue los pasos para registrar el disco."
+
+msgid "Detected: 0 connected"
+msgstr "Detectados: 0 conectados"
+
+msgid "Inventory: 0 drives"
+msgstr "Inventario: 0 unidades"
+
+msgid "Add Device"
+msgstr "Agregar Dispositivo"
+
+msgid "Device Inventory"
+msgstr "Inventario de Dispositivos"
+
+msgid "Connected devices"
+msgstr "Dispositivos conectados"
+
+msgid "Select a device to save it to inventory."
+msgstr "Selecciona un dispositivo para guardarlo en el inventario."
+
+msgid "Refresh list"
+msgstr "Actualizar lista"
+
+msgid "No selection."
+msgstr "Sin selección."
+
+msgid "Register in inventory"
+msgstr "Registrar en inventario"
+
+msgid "Inventory name:"
+msgstr "Nombre en inventario:"
+
+msgid "e.g. Photo backup 2026"
+msgstr "Ej: Backup fotografía 2026"
+
+msgid "Notes or observations (optional)"
+msgstr "Notas u observaciones (opcional)"
+
+msgid "Add to inventory"
+msgstr "Agregar al inventario"
+
+msgid "View the current status of each drive."
+msgstr "Visualiza el estado actual de cada unidad."
+
+msgid "Refresh inventory"
+msgstr "Actualizar inventario"
+
+msgid "Search:"
+msgstr "Buscar:"
+
+msgid "Filter by name, letter or serial"
+msgstr "Filtra por nombre, letra o serie"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Select a drive for more actions."
+msgstr "Selecciona una unidad para más acciones."
+
+msgid "Open in inventory"
+msgstr "Abrir en inventario"
+
+msgid "Remove from inventory"
+msgstr "Eliminar del inventario"
+
+msgid "View Statistics"
+msgstr "Ver Estadísticas"
+
+msgid "Update Device Inventory"
+msgstr "Actualizar Inventario del Dispositivo"
+
+msgid "Could not read connected devices: {exc}"
+msgstr "No se pudieron leer los dispositivos conectados: {exc}"
+
+msgid "No connected drives."
+msgstr "No hay unidades conectadas."
+
+msgid "Connect a USB/HDD device to begin."
+msgstr "Conecta un dispositivo USB/HDD para comenzar."
+
+msgid "Select a drive to add it."
+msgstr "Selecciona una unidad para agregarla."
+
+msgid "No database connection."
+msgstr "No hay conexión a base de datos."
+
+msgid "Connect to database to view inventory."
+msgstr "Conecta la base de datos para ver el inventario."
+
+msgid "No registered devices."
+msgstr "No hay dispositivos registrados."
+
+msgid "Add your first drive from the list above."
+msgstr "Agrega tu primera unidad desde la lista superior."
+
+msgid "No matches with current filter."
+msgstr "No hay coincidencias con el filtro actual."
+
+msgid "No results for '{query}'"
+msgstr "Sin resultados para '{query}'"
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Disconnected"
+msgstr "Desconectado"
+
+msgid "Unnamed"
+msgstr "Sin nombre"
+
+msgid "No scan"
+msgstr "Sin escaneo"
+
+msgid "Last scan"
+msgstr "Último escaneo"
+
+msgid "Showing {count} of {total} drives"
+msgstr "Mostrando {count} de {total} unidades"
+
+msgid " • Filter: '{query}'"
+msgstr " • Filtro: '{query}'"
+
+msgid "Drive"
+msgstr "Unidad"
+
+msgid "Drive without letter"
+msgstr "Unidad sin letra"
+
+msgid "No database connection."
+msgstr "No hay conexión con la base de datos."
+
+msgid "Select a connected drive."
+msgstr "Selecciona una unidad conectada."
+
+msgid "Could not determine drive letter."
+msgstr "No se pudo determinar la letra de la unidad."
+
+msgid "This device is already registered by serial number."
+msgstr "Este dispositivo ya está registrado por número de serie."
+
+msgid "Duplicate device: already exists in inventory."
+msgstr "Dispositivo duplicado: ya existe en inventario."
+
+msgid "A device with the same name and letter already exists."
+msgstr "Ya existe un dispositivo con el mismo nombre y letra."
+
+msgid "Name already used for that letter."
+msgstr "Nombre ya utilizado para esa letra."
+
+msgid "(Device added. Starting scan...)"
+msgstr "(Dispositivo agregado. Iniciando escaneo...)"
+
+msgid "Updating{dots}%p%"
+msgstr "Actualizando{dots} %p%"
+
+msgid "No serial"
+msgstr "Sin serie"
+
+msgid "(Scan cancelled)"
+msgstr "(Análisis cancelado)"
+
+msgid "Remove device"
+msgstr "Eliminar dispositivo"
+
+msgid ""
+"Do you want to remove '{label}' from inventory? This will delete its "
+"registered information."
+msgstr ""
+"¿Deseas eliminar '{label}' del inventario? Esto borrará su información "
+"registrada."
+
+msgid "Could not remove drive: {exc}"
+msgstr "No se pudo eliminar la unidad: {exc}"
+
+msgid "'{label}' was removed from inventory."
+msgstr "'{label}' fue eliminado del inventario."
+
+msgid "Detected: {count} connected"
+msgstr "Detectados: {count} conectados"
+
+msgid "Inventory: {total} drives ({connected} connected)"
+msgstr "Inventario: {total} unidades ({connected} conectadas)"
+
+msgid "(Saving to database...)"
+msgstr "(Guardando en base de datos...)"
+
+msgid "Error saving: {error}"
+msgstr "Error al guardar: {error}"
+
+msgid "(Update completed)"
+msgstr "(Actualización completada)"
+
+msgid "Device updated: {files} files, {folders} folders"
+msgstr "Dispositivo actualizado: {files} archivos, {folders} carpetas"
+
+msgid "(Scanning device...)"
+msgstr "(Escaneando dispositivo...)"
+
+msgid "Stop scan"
+msgstr "Parar análisis"
+
+msgid "% of Total"
+msgstr "% del total"
+
+msgid "<b>Average Folder Size:</b>"
+msgstr "<b>Tamaño medio de carpeta:</b>"
+
+msgid "<b>Average Size:</b>"
+msgstr "<b>Tamaño medio:</b>"
+
+msgid "<b>Capacity:</b>"
+msgstr "<b>Capacidad:</b>"
+
+msgid "<b>Current Status:</b>"
+msgstr "<b>Estado actual:</b>"
+
+msgid "<b>Files:</b>"
+msgstr "<b>Archivos:</b>"
+
+msgid "<b>Folders:</b>"
+msgstr "<b>Carpetas:</b>"
+
+msgid "<b>Free:</b> {size} ({percent:.1f}%)"
+msgstr "<b>Libre:</b> {size} ({percent:.1f}%)"
+
+msgid "<b>Largest File:</b>"
+msgstr "<b>Archivo más grande:</b>"
+
+msgid "<b>Largest Folder:</b>"
+msgstr "<b>Carpeta más grande:</b>"
+
+msgid "<b>Last Scanned:</b>"
+msgstr "<b>Último escaneo:</b>"
+
+msgid "<b>Most Common Type:</b>"
+msgstr "<b>Tipo más común:</b>"
+
+msgid "<b>Power On Hours:</b>"
+msgstr "<b>Horas encendido:</b>"
+
+msgid "<b>Reallocated Sectors:</b>"
+msgstr "<b>Sectores reasignados:</b>"
+
+msgid "<b>Serial Number:</b>"
+msgstr "<b>Número de serie:</b>"
+
+msgid "<b>Temperature Trend:</b>"
+msgstr "<b>Tendencia de temperatura:</b>"
+
+msgid "<b>Total Files in Folders:</b>"
+msgstr "<b>Total de archivos en carpetas:</b>"
+
+msgid "<b>Total Folders:</b>"
+msgstr "<b>Total de carpetas:</b>"
+
+msgid "<b>Total Size:</b>"
+msgstr "<b>Tamaño total:</b>"
+
+msgid "<b>Total Subfolders:</b>"
+msgstr "<b>Total de subcarpetas:</b>"
+
+msgid "<b>Total:</b> {size}"
+msgstr "<b>Total:</b> {size}"
+
+msgid "<b>Used:</b> {size} ({percent:.1f}%)"
+msgstr "<b>Usado:</b> {size} ({percent:.1f}%)"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "Bidirectional (automatic)"
+msgstr "Bidireccional (automático)"
+
+msgid "Cannot write to directory:\\n{backup_dir}\\n\\nError: {e}"
+msgstr ""
+"No se puede escribir en el directorio:\n"
+"{backup_dir}\n"
+"\n"
+"Error: {e}"
+
+msgid "Cannot write to directory:\\n{dir}\\n\\nError: {error}"
+msgstr ""
+"No se puede escribir en el directorio:\n"
+"{dir}\n"
+"\n"
+"Error: {error}"
+
+msgid "Could not open file: {error}"
+msgstr "No se pudo abrir el archivo: {error}"
+
+msgid "Could not open folder: {error}"
+msgstr "No se pudo abrir la carpeta: {error}"
+
+msgid "Could not open metadata dialog: {error}"
+msgstr "No se pudo abrir el diálogo de metadatos: {error}"
+
+msgid "Could not register drive: {error}"
+msgstr "No se pudo registrar la unidad: {error}"
+
+msgid "Could not save settings:\\n{error}"
+msgstr ""
+"No se pudo guardar la configuración:\n"
+"{error}"
+
+msgid "Count"
+msgstr "Cantidad"
+
+msgid "Drive not found."
+msgstr "Unidad no encontrada."
+
+msgid "Drive {drive} is not connected or accessible."
+msgstr "La unidad {drive} no está conectada o accesible."
+
+msgid "Edit Metadata"
+msgstr "Editar metadatos"
+
+msgid "Edit {item} Metadata"
+msgstr "Editar metadatos de {item}"
+
+msgid "Error loading folder data: {error}"
+msgstr "Error al cargar datos de la carpeta: {error}"
+
+msgid "Error loading statistics: {error}"
+msgstr "Error al cargar estadísticas: {error}"
+
+msgid "Error saving metadata:\\n{error}"
+msgstr ""
+"Error al guardar metadatos:\n"
+"{error}"
+
+msgid "Error starting export:\\n{error}"
+msgstr ""
+"Error al iniciar la exportación:\n"
+"{error}"
+
+msgid "Error testing connection:\\n{error}"
+msgstr ""
+"Error al probar la conexión:\n"
+"{error}"
+
+msgid "Error testing connection:\\n{e}"
+msgstr ""
+"Error al probar la conexión:\n"
+"{e}"
+
+msgid "Ex: C:/Users/User/Google Drive/HDDInventory/inventory_backup.db"
+msgstr "Ej: C:/Usuarios/Usuario/Google Drive/HDDInventory/inventory_backup.db"
+
+msgid "Extension"
+msgstr "Extensión"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "File Type Distribution"
+msgstr "Distribución de tipos de archivo"
+
+msgid "File does not exist or is not accessible: {path}"
+msgstr "El archivo no existe o no es accesible: {path}"
+
+msgid "Filter by minimum star rating"
+msgstr "Filtrar por calificación mínima de estrellas"
+
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "Folder Size Distribution"
+msgstr "Distribución de tamaño de carpetas"
+
+msgid "Folder does not exist or is not accessible: {path}"
+msgstr "La carpeta no existe o no es accesible: {path}"
+
+msgid "Found {count:,} files | Total size: {size}"
+msgstr "Encontrados {count:,} archivos | Tamaño total: {size}"
+
+msgid "Grid view (coming soon)"
+msgstr "Vista de cuadrícula (próximamente)"
+
+msgid "Info"
+msgstr "Información"
+
+msgid "Metadata saved successfully."
+msgstr "Metadatos guardados correctamente."
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "No drives found in inventory."
+msgstr "No se encontraron unidades en el inventario."
+
+msgid "Only from backup"
+msgstr "Solo desde respaldo"
+
+msgid "Only to backup"
+msgstr "Solo hacia respaldo"
+
+msgid "Only updates from backup, never writes"
+msgstr "Solo actualiza desde respaldo, nunca escribe"
+
+msgid "Only writes to backup, never reads"
+msgstr "Solo escribe en respaldo, nunca lee"
+
+msgid "Open containing folder"
+msgstr "Abrir carpeta contenedora"
+
+msgid "Open file"
+msgstr "Abrir archivo"
+
+msgid "Overview"
+msgstr "Resumen"
+
+msgid "Page {current} of {total} ({results:,} results)"
+msgstr "Página {current} de {total} ({results:,} resultados)"
+
+msgid "Path"
+msgstr "Ruta"
+
+msgid "Results per page:"
+msgstr "Resultados por página:"
+
+msgid "Saved"
+msgstr "Guardado"
+
+msgid "Select Drive:"
+msgstr "Seleccionar unidad:"
+
+msgid "Showing {start:,}-{end:,} of {total:,} files | Total size: {size}"
+msgstr ""
+"Mostrando {start:,}-{end:,} de {total:,} archivos | Tamaño total: {size}"
+
+msgid "Sync Direction"
+msgstr "Dirección de sincronización"
+
+msgid "Sync Settings"
+msgstr "Configuración de sincronización"
+
+msgid "Sync Timing"
+msgstr "Momento de sincronización"
+
+msgid "Synchronize when closing the application"
+msgstr "Sincronizar al cerrar la aplicación"
+
+msgid "Synchronize when starting the application"
+msgstr "Sincronizar al iniciar la aplicación"
+
+msgid "Synchronizes automatically using the most recent version"
+msgstr "Sincroniza automáticamente usando la versión más reciente"
+
+msgid "Table view"
+msgstr "Vista de tabla"
+
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+msgid "Total Size"
+msgstr "Tamaño total"
+
+msgid "Tree view (coming soon)"
+msgstr "Vista de árbol (próximamente)"
+
+msgid "Treemap error: {error}"
+msgstr "Error en el mapa de árbol: {error}"
+
+msgid "Unknown Drive"
+msgstr "Unidad desconocida"
+
+msgid "View:"
+msgstr "Vista:"
+
+msgid "[no extension]"
+msgstr "[sin extensión]"
+
+msgid "string"
+msgstr "cadena"
+
+msgid "string with {placeholder}"
+msgstr "cadena con {placeholder}"
+
+msgid "{count:,}"
+msgstr "{count:,}"
+
+msgid "{ext} ({count:,} files)"
+msgstr "{ext} ({count:,} archivos)"
+
+msgid "{hours:,} hours"
+msgstr "{hours:,} horas"
+
+msgid "{icon} S.M.A.R.T.: {status}"
+msgstr "{icon} S.M.A.R.T.: {status}"
+
+msgid "{label} ({letter}) — Update completed"
+msgstr "{label} ({letter}) — Actualización completada"
+
+msgid "{label} ({letter}) — Updating... {percent}%"
+msgstr "{label} ({letter}) — Actualizando... {percent}%"
+
+msgid "{name} ({size})"
+msgstr "{name} ({size})"
+
+msgid "{path} ({size})"
+msgstr "{path} ({size})"
+
+msgid "→ Stable"
+msgstr "→ Estable"
+
+msgid "⚠️ Increasing"
+msgstr "⚠️ En aumento"
+
+msgid "⚠️ S.M.A.R.T.: Unavailable"
+msgstr "⚠️ S.M.A.R.T.: No disponible"
+
+msgid "⚡ Power Hours"
+msgstr "⚡ Horas encendido"
+
+msgid "✅ Stable"
+msgstr "✅ Estable"
+
+msgid "🌡️ Temp (°C)"
+msgstr "🌡️ Temp (°C)"
+
+msgid "🏷️ Type"
+msgstr "🏷️ Tipo"
+
+msgid "💿 Storage Usage"
+msgstr "💿 Uso de almacenamiento"
+
+msgid "📁 Folder"
+msgstr "📁 Carpeta"
+
+msgid "📂 Path"
+msgstr "📂 Ruta"
+
+msgid "📂 Subfolders"
+msgstr "📂 Subcarpetas"
+
+msgid "📄 Documents"
+msgstr "📄 Documentos"
+
+msgid "📄 File Name"
+msgstr "📄 Nombre de archivo"
+
+msgid "📄 File Types"
+msgstr "📄 Tipos de archivo"
+
+msgid "📄 Files"
+msgstr "📄 Archivos"
+
+msgid "📄 Largest Files"
+msgstr "📄 Archivos más grandes"
+
+msgid "📅 Date"
+msgstr "📅 Fecha"
+
+msgid "📈 % of Total"
+msgstr "📈 % del total"
+
+msgid "📈 Rising"
+msgstr "📈 En aumento"
+
+msgid "📈 Trends Summary"
+msgstr "📈 Resumen de tendencias"
+
+msgid "📉 Falling"
+msgstr "📉 En descenso"
+
+msgid "📊 Overview"
+msgstr "📊 Resumen"
+
+msgid "📊 Size"
+msgstr "📊 Tamaño"
+
+msgid "📊 Status"
+msgstr "📊 Estado"
+
+msgid "📋 Drive Details"
+msgstr "📋 Detalles de la unidad"
+
+msgid ""
+"📝 Note: File and folder statistics are from the last scan. Storage usage "
+"reflects current disk state."
+msgstr ""
+"📝 Nota: Las estadísticas de archivos y carpetas son del último escaneo. El "
+"uso de almacenamiento refleja el estado actual del disco."
+
+msgid "🔄 Loading statistics panel..."
+msgstr "🔄 Cargando panel de estadísticas..."
+
+msgid "🔄 Reallocated"
+msgstr "🔄 Reasignados"
+
+msgid "⚡ Power Hours"
+msgstr "⚡ Horas encendido"
+
+msgid "✅ Stable"
+msgstr "✅ Estable"
+
+msgid "🌡️ Temp (°C)"
+msgstr "🌡️ Temp (°C)"
+
+msgid "🏷️ Type"
+msgstr "🏷️ Tipo"
+
+msgid "💿 Storage Usage"
+msgstr "💿 Uso de almacenamiento"
+
+msgid "📁 Folder"
+msgstr "📁 Carpeta"
+
+msgid "📂 Path"
+msgstr "📂 Ruta"
+
+msgid "📂 Subfolders"
+msgstr "📂 Subcarpetas"
+
+msgid "📄 Documents"
+msgstr "📄 Documentos"
+
+msgid "📄 File Name"
+msgstr "📄 Nombre de archivo"
+
+msgid "📄 File Types"
+msgstr "📄 Tipos de archivo"
+
+msgid "📄 Files"
+msgstr "📄 Archivos"
+
+msgid "📄 Largest Files"
+msgstr "📄 Archivos más grandes"
+
+msgid "📅 Date"
+msgstr "📅 Fecha"
+
+msgid "📈 % of Total"
+msgstr "📈 % del total"
+
+msgid "📈 Rising"
+msgstr "📈 En aumento"
+
+msgid "📈 Trends Summary"
+msgstr "📈 Resumen de tendencias"
+
+msgid "📉 Falling"
+msgstr "📉 En descenso"
+
+msgid "📊 Overview"
+msgstr "📊 Resumen"
+
+msgid "📊 Size"
+msgstr "📊 Tamaño"
+
+msgid "📊 Status"
+msgstr "📊 Estado"
+
+msgid "📋 Drive Details"
+msgstr "📋 Detalles de la unidad"
+
+msgid ""
+"📝 Note: File and folder statistics are from the last scan. Storage usage "
+"reflects current disk state."
+msgstr ""
+"📝 Nota: Las estadísticas de archivos y carpetas son del último escaneo. El "
+"uso de almacenamiento refleja el estado actual del disco."
+
+msgid "🔄 Loading statistics panel..."
+msgstr "🔄 Cargando panel de estadísticas..."
+
+msgid "🔄 Reallocated"
+msgstr "🔄 Reasignados"
+
+msgid "⚡ Power Hours"
+msgstr "⚡ Horas encendido"
+
+msgid "✅ Stable"
+msgstr "✅ Estable"
+
+msgid "🌡️ Temp (°C)"
+msgstr "🌡️ Temp (°C)"
+
+msgid "🏷️ Type"
+msgstr "🏷️ Tipo"
+
+msgid "Largest Files"
+msgstr "Archivos Grandes"
+
+msgid "Top 20 largest files on this drive by size."
+msgstr "Top 20 archivos más grandes en la unidad."
+
+msgid "Drive File Statistics"
+msgstr "Estadisticas de Datos en Unidad"
+
+msgid "Total Files"
+msgstr "Archivos Totales"
+
+msgid "📄 No file data available for this drive."
+msgstr "📄 No hay datos de esta unidad."
+
+msgid "🗂️ Folder Size Treemap"
+msgstr "🗂️ Árbol de ficheros"
+
+msgid ""
+"Visual representation of folder sizes. Larger rectangles represent larger "
+"folders."
+msgstr "Representación visual del consumo de espacio por carpetas."
+
+msgid ""
+"Click here to load folder size treemap\n"
+"\n"
+"This visualization analyzes folder structures and may take a moment to load."
+msgstr ""
+"Haz click para cargar el árbol de tamaños de carpeta\n"
+"\n"
+"Puede tardar un rato en cargar."
+
+msgid "<b>Total Files:</b>"
+msgstr "<b>Total Archivos:</b>"
+
+msgid "No file type data to display."
+msgstr "Sin datos de tipo de archivo."
+
+msgid "<b>File Consumption by Folder (Treemap)</b>"
+msgstr "<b>Consumo de ficheros por carpeta (Gráfico de Árbol)</b>"
+
+msgid "Drive:"
+msgstr "Drive:"
+
+msgid "Show Treemap"
+msgstr "Ver Gráfico de Árbol"
+
+msgid "📄 File Type Distribution"
+msgstr "📄 Distribución de Tipos de Archivo"
+
+msgid "Breakdown of files by type/extension on this drive."
+msgstr "Resumen de archivos por tipo/extensión en la unidad."
+
+msgid "📊 Details"
+msgstr "📊 Detalles"
+
+msgid "About:"
+msgstr "Aviso Legal"
+
+msgid " COLLECTIONS"
+msgstr " COLECCIONES"
+
+msgid "Administrator Privileges Required"
+msgstr "Privilegios de Administrador Requeridos"
+
+msgid "Almacen Digital Settings"
+msgstr "Configuración de Almacén Digital"
+
+msgid "Capacity"
+msgstr "Capacidad"
+
+msgid ""
+"Click here to load folder size treemap\\n\\nThis visualization analyzes "
+"folder structures and may take a moment to load."
+msgstr ""
+"Haz clic aquí para cargar el mapa de árbol de tamaños de carpeta\\n\\nEsta "
+"visualización analiza estructuras de carpetas y puede tardar un momento en "
+"cargar."
+
+msgid "Could not update notes: {error}"
+msgstr "No se pudo actualizar las notas: {error}"
+
+msgid "Edit Notes"
+msgstr "Editar Notas"
+
+msgid "Edit Notes - {label}"
+msgstr "Editar Notas - {label}"
+
+msgid "Elevation Failed"
+msgstr "Elevación Fallida"
+
+msgid "Failed to restart as administrator:\\n\\n{str(e)}"
+msgstr "Error al reiniciar como administrador:\\n\\n{str(e)}"
+
+msgid "Free"
+msgstr "Libre"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Notes for {label} - Double-click or use Edit Notes button"
+msgstr "Notas para {label} - Doble clic o usar botón Editar Notas"
+
+msgid "Notes updated successfully"
+msgstr "Notas actualizadas correctamente"
+
+msgid "Notes:"
+msgstr "Notas:"
+
+msgid "S.M.A.R.T. Information"
+msgstr "Información S.M.A.R.T."
+
+msgid "SMART Data Updated"
+msgstr "Datos SMART Actualizados"
+
+msgid "🔧 S.M.A.R.T. Health Monitor"
+msgstr "🔧 Monitor de Salud S.M.A.R.T."
+
+msgid "Error applying filters:\\n{error}"
+msgstr "Error aplicando filtros:\\n{error}"
+
+msgid "Found {total_count:,} files matching filters"
+msgstr "Encontrados {total_count:,} archivos que coinciden con los filtros"
+
+msgid "SMART data has been refreshed and saved to the database."
+msgstr ""
+"Los datos SMART han sido actualizados y guardados en la base de datos."
+
+msgid "Total Capacity: {capacity} | Total Free Space: {free}"
+msgstr "Capacidad Total: {capacity} | Espacio Libre Total: {free}"
+
+msgid ""
+"📊 No historical S.M.A.R.T. data available.\\nData will be collected over "
+"time as the drive is monitored."
+msgstr ""
+"📊 No hay datos históricos S.M.A.R.T. disponibles.\\nLos datos se recopilarán"
+" con el tiempo mientras se monitorea la unidad."
+
+msgid "🔄 Refresh"
+msgstr "🔄 Actualizar"
+
+msgid "🔒 Run as Administrator"
+msgstr "🔒 Ejecutar como Administrador"
+
+msgid "🔧 S.M.A.R.T."
+msgstr "🔧 S.M.A.R.T."
+
+msgid "🗂️ Treemap"
+msgstr "🗂️ Mapa de Árbol"
+
+msgid "🚀 Run as Administrator"
+msgstr "🚀 Ejecutar como Administrador"
+
+msgid "Aviso Legal - Almacén Digital"
+msgstr ""
+
+msgid ""
+"🔄 Analyzing folder structure...\\nThis may take a few moments for large "
+"drives."
+msgstr ""
+
+msgid "Top Folders:"
+msgstr "Carpetas principales:"
+
+msgid "Top Types"
+msgstr "Tipos principales"
+
+msgid "Critical"
+msgstr "Crítico"
+
+msgid "Free:"
+msgstr "Libre:"
+
+msgid "Good"
+msgstr "Bueno"
+
+msgid "Moderate"
+msgstr "Moderado"
+
+msgid "Space Usage:"
+msgstr "Uso de espacio:"
+
+msgid "Used:"
+msgstr "Usado:"
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Detailed analysis of folder sizes and file counts."
+msgstr "Análisis detallado de tamaños de carpetas y recuentos de archivos."
+
+msgid "📁 Folder Analysis"
+msgstr "📁 Análisis de Carpetas"
+
+msgid "📁 No folder data available for this drive."
+msgstr "📁 No hay datos de carpetas disponibles para esta unidad."
+
+msgid "📁 No folder size data available for this drive."
+msgstr "📁 No hay datos de tamaño de carpetas disponibles para esta unidad."
+
+msgid "📄 No file type data available for this drive."
+msgstr "📄 No hay datos de tipos de archivo disponibles para esta unidad."
+
+msgid "📊 Drive Folder Statistics"
+msgstr "📊 Estadísticas de Carpetas de la Unidad"
+
+msgid "📊 Health History"
+msgstr "📊 Historial de Salud"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"

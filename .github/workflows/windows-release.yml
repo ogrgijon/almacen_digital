@@ -1,0 +1,56 @@
+name: Windows release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pinned Windows release dependencies
+        run: python -m pip install --requirement requirements-windows-lock.txt
+
+      - name: Run security regression tests
+        run: python -m pytest tests -q
+
+      - name: Build portable Windows release
+        run: python build.py --portable
+
+      - name: Create release archive and checksum
+        shell: pwsh
+        run: |
+          $archive = "AlmacenDigital-Windows-Portable-${{ github.ref_name }}.zip"
+          Compress-Archive -Path "release/windows-portable/*" -DestinationPath $archive
+          $hash = (Get-FileHash $archive -Algorithm SHA256).Hash
+          "$hash  $archive" | Out-File -Encoding ascii "$archive.sha256"
+
+      - name: Upload release artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: AlmacenDigital-Windows-${{ github.ref_name }}
+          path: |
+            AlmacenDigital-Windows-Portable-*.zip
+            AlmacenDigital-Windows-Portable-*.zip.sha256
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Almacén Digital ${{ github.ref_name }}
+          generate_release_notes: true
+          files: |
+            AlmacenDigital-Windows-Portable-*.zip
+            AlmacenDigital-Windows-Portable-*.zip.sha256
