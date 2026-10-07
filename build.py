@@ -110,6 +110,18 @@ def build_executable(portable=False):
         print(f"\n[ERROR] Build failed with code {result.returncode}")
         return False
 
+
+def compile_translations():
+        """Compile gettext catalogs before packaging."""
+        import subprocess
+
+        result = subprocess.run(
+            [sys.executable, str(ROOT_DIR / 'utils' / 'compile_translations.py')],
+            cwd=ROOT_DIR,
+            check=False,
+        )
+        return result.returncode == 0
+
 def create_release_package(portable=False):
     """Create a release package.
     
@@ -365,6 +377,10 @@ def main():
     
     # Clean previous builds
     clean_build()
+
+    if not compile_translations():
+        print("\n[ERROR] Translation compilation failed.")
+        sys.exit(1)
     
     # Build executable
     if not build_executable(portable=args.portable):

@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Application info
 APP_NAME = "Almacén Digital"
-APP_VERSION = "1.1.0"
+APP_VERSION = "1.1.1"
 APP_AUTHOR = "OGRGijon"
 
 # Paths

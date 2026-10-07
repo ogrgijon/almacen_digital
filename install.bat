@@ -63,6 +63,15 @@ if errorlevel 1 (
 )
 echo.
 
+echo Compiling translations...
+python utils\compile_translations.py
+if errorlevel 1 (
+    echo ERROR: Failed to compile translations
+    pause
+    exit /b 1
+)
+echo.
+
 echo ========================================
 echo  Installation completed successfully!
 echo ========================================

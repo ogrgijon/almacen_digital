@@ -58,6 +58,14 @@ if [ $? -ne 0 ]; then
 fi
 echo ""
 
+echo "Compiling translations..."
+python utils/compile_translations.py
+if [ $? -ne 0 ]; then
+    echo "ERROR: Failed to compile translations"
+    exit 1
+fi
+echo ""
+
 echo "========================================"
 echo " Installation completed successfully!"
 echo "========================================"
